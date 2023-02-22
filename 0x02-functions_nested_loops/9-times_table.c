@@ -23,8 +23,6 @@ void times_table(void)
 	_putchar(z + '0');
 	_putchar(y + '0');
 	}
-	}
-	}
 	else
 	{
 	if (w != 0)
