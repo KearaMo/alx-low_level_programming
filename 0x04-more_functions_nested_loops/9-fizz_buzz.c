@@ -33,7 +33,7 @@ int main(void)
 	}
 	if (i != 100)
 	{
-	printf(" ", i);
+	printf(' ', i);
 	}
 	}
 	printf("\n");
